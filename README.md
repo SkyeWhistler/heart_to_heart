@@ -25,7 +25,7 @@ The accompanying analysis pipeline handles physiological artefact filtering (40â
   ### Installing
     * **Step 1: Open project directory:**
     
-    cd Final_pipeline
+    cd ...
     
     * **Step 2: Install required packages:**
   
