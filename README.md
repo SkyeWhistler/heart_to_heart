@@ -12,7 +12,7 @@ The accompanying analysis pipeline handles physiological artefact filtering (40�
 * **Python Version:** Python 3.10 or higher.
 * **Hardware Requirements (for live recording only):**
   * 2 × Polar H10 Heart Rate Monitors (with BLE support).
-  * 2 × Bone-conduction / resonance vibration transducers (or stereo audio output).
+  * 2 × Haptic speakers.
 * **Required Python Libraries:**
   * `numpy` (array handling and numerical difference calculations)
   * `pandas` (time-series alignment and data manipulation)
